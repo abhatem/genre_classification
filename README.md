@@ -7,7 +7,7 @@ GTZAN dataset (https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-musi
 extract the `Data` folder next to the `genre_classification.ipynb` notebook
 
 # Usage
-after extracting the data, run the following to install pytorch cuda
+after extracting the `Data` folder, run the following to install pytorch cuda
 ```
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 ```
